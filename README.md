@@ -21,9 +21,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/0126-word-ladder-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+## String
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/0126-word-ladder-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
