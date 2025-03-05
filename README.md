@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/2649-count-total-number-of-colored-cells) |
 ## String
 |  |
 | ------- |
