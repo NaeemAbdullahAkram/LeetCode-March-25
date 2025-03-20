@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/NaeemAbdullahAkram/LeetCode-March-25/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
